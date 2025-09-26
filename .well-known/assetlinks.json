@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sushantenerscript.techcarousel",
+        "sha256_cert_fingerprints": ["3C:D0:19:1A:3C:08:34:5A:46:AF:69:C1:D0:C3:2B:8D:94:AA:AF:A1:D4:39:79:63:AB:FA:A0:8B:04:9E:BC:0C"]
+      }
+    }]
