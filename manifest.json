@@ -1,0 +1,38 @@
+{
+  "short_name": "Tech Carousel AI",
+  "name": "Tech Carousel Creator",
+  "description": "An AI-powered app to generate engaging carousel posts on technical topics.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "shortcuts": [
+    {
+      "name": "Create New Carousel",
+      "short_name": "New",
+      "description": "Start a new carousel project",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
