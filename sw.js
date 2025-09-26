@@ -1,7 +1,9 @@
-const CACHE_NAME = 'tech-carousel-creator-v1';
+const CACHE_NAME = 'tech-carousel-creator-v2';
 const APP_SHELL_URLS = [
     '/',
     '/index.html',
+    '/manifest.json',
+    '/icon.svg'
 ];
 
 // On install, cache the app shell
